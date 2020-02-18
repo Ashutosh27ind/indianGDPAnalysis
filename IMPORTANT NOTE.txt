@@ -1,7 +1,8 @@
-This project was created on the Jupyter notebook.
+This project was created on the Jupyter notebook.  
 It’s generally a good idea to put the data in the same folder as your project, or in a subfolder, to make relative paths and loading the data easier.
-So the data files needs to be present in the same path.
+So the data files needs to be present in the same path.  
+
 1. Please update the relative path of the csv datafiles in the python code to read these files correctly.
 2. Also follow the folder structure of file if needed.
-3. The folder New_eligible_states and Eligible_States contains the state wise data and they should be not renamed or if renamed please update the folder name/path 
-in the ipynb file accordingly. These are in zip format , please unzip it for your usage.
+3. The folder New_eligible_states and Eligible_States contains the state wise data and they should be not renamed or if renamed please update the folder name/path in the ipynb file accordingly.  
+These are in zip format , please unzip it for your usage.
