@@ -1,0 +1,2 @@
+The folder New_eligible_states and Eligible_States contains the state wise data and they should be not renamed or if renamed please update the folder name/path 
+in the ipynb file accordingly.
